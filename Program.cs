@@ -1,7 +1,7 @@
 ﻿using System;
 using Reddit;
 
-namespace reddit_scraping
+namespace WebScraper
 {
     class Program
     {
